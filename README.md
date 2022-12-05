@@ -36,7 +36,7 @@
 
 ## Usage
 
-1. Download the colorscheme file for your favorite flavor (named Catppuccin-{Flavor}.colorscheme) from the `src` folder in this repository.
+1. Download the colorscheme file for your favorite flavor (named `Catppuccin-{Flavor}.colorscheme`) from the `src` folder in this repository.
 2. Paste the file in the `/usr/share/qtermwidget5/color-schemes` folder (requires elevated privileges).
 3. Open QTerminal and click on `File > Preferences`.
 4. In the `Appearance` section, go to the `Color scheme` option, select the flavor from the dropdown and click on `Apply`.
